@@ -4,13 +4,13 @@
 #include <PubSubClient.h>
 
 // ================== CONFIG ==================
-const char* WIFI_SSID = "Diego";
-const char* WIFI_PASS = "irrairra";
+const char* WIFI_SSID = "";
+const char* WIFI_PASS = "";
 
-const char* MQTT_SERVER = "broker.emqx.io"; // broker IP ou hostname
-const uint16_t MQTT_PORT = 1883;
-const char* MQTT_USER = "admin";       // se não usar, deixe "" e MQTT_USER empty
-const char* MQTT_PASS = "admin123";
+const char* MQTT_SERVER = ""; // broker IP ou hostname
+const uint16_t MQTT_PORT = ;
+const char* MQTT_USER = "";       // se não usar, deixe "" e MQTT_USER empty
+const char* MQTT_PASS = "";
 
 const char* DEVICE_ID = "chair001";
 
