@@ -1,6 +1,13 @@
 # ChairPosture-IoT-
 Projeto de protótipo IoT com ESP32 + MPU6050 + FSR que detecta quando uma pessoa está sentada e se a sua postura é ruim (inclinação para frente / lateral). O ESP32 publica telemetria e eventos via MQTT para um broker (Node-RED consome e mostra Dashboard).
 
+Feito por:
+
+[Diego Nogueira Rezende Vilela](https://github.com/D1D104)
+
+[Sabrina Ramos Silveira](https://github.com/sabrinarsilveira)
+
+
 # Índice
 * [Visão Geral](#visão-geral)
 * [Componentes e Ferramentas](#componentes-e-ferramentas)
