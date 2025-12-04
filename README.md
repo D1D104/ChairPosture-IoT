@@ -87,7 +87,7 @@ Notas elétricas
 ## Firmware (explicação e estrutura)
 
 Abaixo está o esqueleto principal do firmware usado no protótipo
-Arquivo principal pode ser encontrado em: 
+Arquivo principal pode ser encontrado em: **`sketch_dec3a_copy_20251204115311.ino`**
 
 setup()
 
@@ -153,7 +153,7 @@ Tópicos
 
 - Telemetria: chairposture/{device_id}/telemetry (QoS 0)
 - Eventos: chairposture/{device_id}/event (QoS 1)
-- 
+  
 Exemplo payload telemetry
 ```json
 {
